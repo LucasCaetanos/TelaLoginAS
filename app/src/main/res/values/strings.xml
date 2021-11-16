@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TelaLogin</string>
+    <string name="welcome_to_the_apps">Welcome to the apps</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+</resources>
